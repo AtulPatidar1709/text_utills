@@ -5,7 +5,6 @@ function App() {
   return (
     <>
     <Navbar title = "TextUtiles" home = "Home" about = "About TextUtils" />
-    
     </>
   );
 }
